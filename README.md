@@ -3,7 +3,6 @@
 解决中国农业银行 Android App 启动时的以下提示，同时保留 Root 和其他应用所需的 Zygisk 功能。
 
 > 为保护您的资金安全，中国农业银行不支持root设备上使用。
-![Uploading image.png…]()
 
 <img src="docs/images/00-root-warning.svg" width="360" alt="问题示意：农业银行提示不支持 root 设备，并要求退出应用">
 
